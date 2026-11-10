@@ -40,4 +40,3 @@ The project utilizes a structured relational table containing *3,430 rows* with 
 * *Payment Preference:* Credit Card usage represents the primary choice at *52.07%, closely followed by Cash methods at **47.93%*.
 * *Item Performance:* Isolates high-volume performance spikes (such as *Belts* tracking as the most-purchased item and *Sun Hats* securing the highest ratings).
 * *Rating Distributions:* Visualizes customer review scores broken down across discrete category groups to evaluate overall satisfaction trends.
-*
