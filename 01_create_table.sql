@@ -1,0 +1,21 @@
+CREATE TABLE staging_fashion_sales (
+    customer_id INT,
+    age INT,
+    gender VARCHAR(50),
+    item_purchased VARCHAR(100),
+    category VARCHAR(100),
+    purchase_amount INT,
+    location VARCHAR(100),
+    garment_size VARCHAR(50),
+    color VARCHAR(50),
+    season VARCHAR(50),
+    review_rating NUMERIC,
+    subscription_status VARCHAR(50),
+    payment_method VARCHAR(100),
+    shipping_type VARCHAR(100),
+    discount_applied VARCHAR(50),
+    promo_code_used VARCHAR(50),
+    previous_purchases INT,
+    preferred_payment_method VARCHAR(100),
+    frequency_of_purchases VARCHAR(100)
+);
