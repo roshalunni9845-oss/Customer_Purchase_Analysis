@@ -47,7 +47,7 @@ The project uses a structured relational table containing **3,430 rows** (transa
 * **Payment Method Distribution:** Donut chart of Credit Card vs Cash usage.
 * **Review by Rating Category:** Number of reviews at each rating level (1 to 5).
 * **Top 5 High Rated Products:** Average rating by item.
-* **Recent Orders:** Table of individual orders with item, date, payment method, barcode, and rating.
+* **Order Details:** Table of individual orders with item, date, payment method, barcode, and rating.
 * **Key Insights:** Summary cards for most purchased item, highest rated item, most used payment method, and average rating.
 
 ---
